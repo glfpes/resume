@@ -1,7 +1,7 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2016.10.21)  21 OCT 2016 17:59
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2016.10.21)  21 OCT 2016 20:03
 entering extended mode
 **resume.tex
-(F:\中文简历\resume.tex
+(C:\git_workspace\resume\resume.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for loaded.
 (C:\develop\CTEX\MiKTeX\tex\latex\base\article.cls
@@ -472,8 +472,9 @@ LaTeX Info: Redefining \sffamily on input line 899.
 LaTeX Info: Redefining \ttfamily on input line 903.
 \xeCJK@featureadded=\count173
 \g_xecjk_exspace_dim=\dimen144
-) (F:\中文简历\format.cls (C:\develop\CTEX\MiKTeX\tex\latex\geometry\geomet
-ry.sty
+)
+(C:\git_workspace\resume\format.cls
+(C:\develop\CTEX\MiKTeX\tex\latex\geometry\geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
 (C:\develop\CTEX\MiKTeX\tex\generic\oberdiek\ifpdf.sty
@@ -667,7 +668,8 @@ LaTeX Info: Redefining \addtolength on input line 77.
 \calc@Cskip=\skip54
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 27.
-) (F:\中文简历\resume.aux)
+)
+(C:\git_workspace\resume\resume.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
@@ -684,6 +686,7 @@ LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 9.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 9.
+
 (C:\develop\CTEX\MiKTeX\tex\latex\tipa\t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
@@ -806,10 +809,10 @@ LaTeX Info: Redefining \ref on input line 9.
 LaTeX Info: Redefining \pageref on input line 9.
 LaTeX Info: Redefining \nameref on input line 9.
 
-(F:\中文简历\resume.out) (F:\中文简历\resume.out)
+(C:\git_workspace\resume\resume.out) (C:\git_workspace\resume\resume.out)
 \@outlinefile=\write3
 
-(F:\中文简历\description/header.tex
+(C:\git_workspace\resume\description/header.tex
 Requested font "[lmroman8-regular]:mapping=tex-text" at 8.0pt
  -> C:/develop/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman8-regular.otf
 Requested font "[lmroman6-regular]:mapping=tex-text" at 6.0pt
@@ -909,7 +912,7 @@ Requested font "SimSun/ICU:" at 10.95pt
 Requested font "SimSun/ICU:" at 10.95pt
  -> C:/develop/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf
 )
-(F:\中文简历\description/education.tex
+(C:\git_workspace\resume\description/education.tex
 Requested font "[lmroman12-regular]:mapping=tex-text" at 12.0pt
  -> C:/develop/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman12-regular.otf
 Requested font "[lmroman12-bold]:mapping=tex-text" at 12.0pt
@@ -1004,10 +1007,12 @@ Requested font "SimSun/ICU:" at 10.0pt
  -> C:/develop/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf
 Requested font "SimSun/ICU:" at 10.0pt
  -> C:/develop/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf
-) (F:\中文简历\description/skills.tex) (F:\中文简历\description/others.
-tex) (F:\中文简历\description/awards.tex) (F:\中文简历\description/comp
-any.tex)
-(F:\中文简历\description/projects.tex
+)
+(C:\git_workspace\resume\description/skills.tex)
+(C:\git_workspace\resume\description/others.tex)
+(C:\git_workspace\resume\description/awards.tex)
+(C:\git_workspace\resume\description/company.tex)
+(C:\git_workspace\resume\description/projects.tex
 Requested font "[lmroman7-regular]:mapping=tex-text" at 7.0pt
  -> C:/develop/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman7-regular.otf
 Requested font "[lmroman5-regular]:mapping=tex-text" at 5.0pt
@@ -1032,13 +1037,13 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 22.
  [2]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 22.
 
-(F:\中文简历\resume.aux)
+(C:\git_workspace\resume\resume.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 22.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 22.
  ) 
 Here is how much of TeX's memory you used:
  19629 strings out of 430478
- 380378 string characters out of 3191301
+ 380586 string characters out of 3191301
  430695 words of memory out of 3000000
  22547 multiletter control sequences out of 15000+200000
  8250 words of font info for 60 fonts, out of 3000000 for 9000
